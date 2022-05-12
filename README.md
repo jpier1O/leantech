@@ -1,4 +1,4 @@
-# Hello Fund Refactor Client
+# Readme React native project
 
 ## Setup Visual Studio Code
 
